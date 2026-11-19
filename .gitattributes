@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.py text
+*.ts text
+*.tsx text
+*.json text
+*.md text
+*.wav binary
+*.mp3 binary
+*.mp4 binary
+*.png binary
+*.jpg binary

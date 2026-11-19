@@ -1,0 +1,75 @@
+[
+ {
+  "id": "TITLE",
+  "kind": "card",
+  "dur": 3.6
+ },
+ {
+  "id": "S01",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 0.35,
+  "tout": 4.38,
+  "say": "三个月，我把一个 AI 小工具做成了副业",
+  "sub": "三个月，我把一个 AI 小工具做成了副业"
+ },
+ {
+  "id": "S02",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 4.55,
+  "tout": 8.28,
+  "say": "大家好，我是小 A，某大学大三在读",
+  "sub": "大家好，我是小 A，某大学大三在读"
+ },
+ {
+  "id": "S03",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 8.45,
+  "tout": 11.68,
+  "say": "启动成本其实不到两百块",
+  "sub": "启动成本其实不到两百块"
+ },
+ {
+  "id": "S04",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 11.85,
+  "tout": 15.48,
+  "say": "现在每个月，能多一份生活费",
+  "sub": "现在每个月，能多一份生活费"
+ },
+ {
+  "id": "S05",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 15.65,
+  "tout": 18.68,
+  "say": "先做出来，再慢慢优化",
+  "sub": "先做出来，再慢慢优化"
+ },
+ {
+  "id": "S06",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 18.85,
+  "tout": 21.08,
+  "say": "别等准备好",
+  "sub": "别等准备好"
+ },
+ {
+  "id": "S07",
+  "kind": "clip",
+  "src": "clips/demo.mp4",
+  "tin": 21.25,
+  "tout": 24.58,
+  "say": "这就是我全部的方法",
+  "sub": "这就是我全部的方法"
+ },
+ {
+  "id": "END",
+  "kind": "card",
+  "dur": 4.0
+ }
+]

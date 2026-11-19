@@ -1,0 +1,40 @@
+# 素材与成片（隐私 / 体积）
+work/
+public/clips/
+public/music/
+public/fonts/
+public/logos/
+public/plates/
+out/
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.m4a
+*.png
+*.jpg
+*.jpeg
+
+# 转写与逐字稿
+*segments*.json
+*segments*.txt
+units.json
+units.txt
+sentences.json
+transcript*
+words.json
+
+# 依赖与缓存
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 生成物（示例数据编译产物除外，见 remotion/src/data/shots.json）
+remotion/keyframes.json
+remotion/sfx.json
+
+# 系统
+.DS_Store
+Thumbs.db
